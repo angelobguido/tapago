@@ -1,14 +1,14 @@
-# Política de Privacidade — Tá Pago!
+# Política de Privacidade — Já Tá Pago!
 
 **Última atualização:** 8 de março de 2026
 
 ## Introdução
 
-O aplicativo **Tá Pago!** ("nós", "nosso" ou "aplicativo") é um app de controle financeiro pessoal. Esta Política de Privacidade descreve como suas informações são tratadas ao utilizar o aplicativo.
+O aplicativo **Já Tá Pago!** ("nós", "nosso" ou "aplicativo") é um app de controle financeiro pessoal. Esta Política de Privacidade descreve como suas informações são tratadas ao utilizar o aplicativo.
 
 ## Dados coletados e armazenamento
 
-O Tá Pago! **não coleta, transmite ou armazena seus dados pessoais em servidores externos**. Todas as informações financeiras que você insere (transações, categorias, valores e datas) são armazenadas **localmente no seu dispositivo**, utilizando um banco de dados SQLite. Nós não temos acesso a essas informações.
+O Já Tá Pago! **não coleta, transmite ou armazena seus dados pessoais em servidores externos**. Todas as informações financeiras que você insere (transações, categorias, valores e datas) são armazenadas **localmente no seu dispositivo**, utilizando um banco de dados SQLite. Nós não temos acesso a essas informações.
 
 Se você desinstalar o aplicativo, todos os dados armazenados localmente serão apagados permanentemente.
 
@@ -40,7 +40,7 @@ Como todos os dados financeiros ficam armazenados localmente no seu dispositivo,
 
 ## Crianças
 
-O Tá Pago! não é direcionado a menores de 13 anos e não coleta intencionalmente informações de crianças.
+O Já Tá Pago! não é direcionado a menores de 13 anos e não coleta intencionalmente informações de crianças.
 
 ## Alterações nesta política
 
